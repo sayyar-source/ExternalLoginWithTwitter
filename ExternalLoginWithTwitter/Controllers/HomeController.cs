@@ -52,6 +52,6 @@ namespace ExternalLoginWithTwitter.Controllers
             return View();
         }
 
-        
+    
     }
 }
